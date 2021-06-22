@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @nirkopler
-**✨ I'm a Full Stack Developer. Passionate about Building complex web apps with simple UI ✨**
+**✨ I'm a Full Stack Developer. Passionate about Building complex web apps with a simple UI ✨**
 ### 💪 My current stack is :
 #### JavaScript, NodeJS, Angular, React, C#, ASP.NET, NoSQL, MongoDB, SQL, WebAPI, REST API, HTML, CSS.
 - 🌱 I’m always working on a side project 🙄 currently working on a chrome extension in a mission helping other web developers. 🤩
