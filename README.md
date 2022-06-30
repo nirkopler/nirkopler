@@ -4,7 +4,7 @@
 
 ### 💪 My current stack is :
 
-#### JavaScript, // Typescript, JavaScript, React, PWA, Flutter, MobX (TS & Dart), Redux, Angular, RxJs, NodeJS, Express, TsED, SocketIO, NoSQL, MongoDB, HTML, CSS, SCSS, REST APIs, C#, ASP.NET, SQL Server, Bash, Python.
+#### Typescript, JavaScript, React, PWA, Flutter, MobX (TS & Dart), Redux, Angular, RxJs, NodeJS, Express, TsED, SocketIO, NoSQL, MongoDB, HTML, CSS, SCSS, REST APIs, C#, ASP.NET, SQL Server, Bash, Python.
 
 - 🌱 I’m always working on a side project 🙄 currently working on a chrome extension in a mission helping other web developers. 🤩
 - 🐱‍🏍 I'm always ready for my next challenge! 👾
