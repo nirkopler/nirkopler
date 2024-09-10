@@ -11,8 +11,9 @@
 
 ### 📫 How to reach me:
 
+[![Website](https://img.shields.io/badge/Website-nirkopler.com-FFFAF0)](https://www.nirkopler.com)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-Nir%20Kopler-blue)](https://www.linkedin.com/in/nir-kopler/)
-[![Gmail](https://img.shields.io/badge/GMAIL-nirkopler%40gmail.com-red)](mailto:nirkopler@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nirkopler%40gmail.com-red)](mailto:nirkopler@gmail.com)
 
 ![nirkoplerStack](https://github.com/nirkopler/nirkopler/blob/main/nirkoplerStack.png)
 
