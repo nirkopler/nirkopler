@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer specialized in designing and scaling high-performance server-side applications, complex web apps, and production-grade GenAI/LLM systems. Proven track record of taking products from initial POC to enterprise-scale production.**
 
 ### My current stack 🚀:
-**Server-Side**: Python, FastAPI, Node.js, RabbitMQ, Redis, MongoDB, AWS (Bedrock, S3, DocumentDB), Pytest.  
+**Server-Side**: Python, FastAPI, Node.js, RabbitMQ, Redis, MongoDB, AWS (Bedrock, S3, DocumentDB), Pytest, TsED, Socket.IO.  
 **GenAI / LLM Ops**: Langfuse, Langchain, OpenTelemetry, Qdrant & Vector DBs, LLM Evaluation & Fine-tuning.  
 **Client-Side**: TypeScript, JavaScript, React, VueJS, Flutter (Mobile), Electron (Desktop), Vite, MobX.  
 
