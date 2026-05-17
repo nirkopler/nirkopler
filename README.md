@@ -1,21 +1,20 @@
 # 👋 Hi, I’m @nirkopler
 
-**✨ I'm a Full Stack Developer. Passionate about Building complex web apps with a clean and intuitive UI ✨**
+**Full-Stack Software Engineer specialized in designing and scaling high-performance server-side applications, complex web apps, and production-grade GenAI/LLM systems. Proven track record of taking products from initial POC to enterprise-scale production.**
 
-### 💪 My current stack is :
+### My current stack 🚀:
+**Server-Side**: Python, FastAPI, Node.js, RabbitMQ, Redis, MongoDB, AWS (Bedrock, S3, DocumentDB), Pytest.  
+**GenAI / LLM Ops**: Langfuse, Langchain, OpenTelemetry, Qdrant & Vector DBs, LLM Evaluation & Fine-tuning.  
+**Client-Side**: TypeScript, JavaScript, React, VueJS, Flutter (Mobile), Electron (Desktop), Vite, MobX.  
 
-#### Typescript, JavaScript, React, PWA, Flutter, MobX (TS & Dart), Redux, Angular, RxJs, NodeJS, Express, TsED, SocketIO, NoSQL, MongoDB, HTML, CSS, SCSS, REST APIs, C#, ASP.NET, SQL Server, Bash, Python.
-
-- 🌱 I’m always working on a side project 🙄 currently working on a chrome extension in a mission helping other web developers. 🤩
-- 🐱‍🏍 I'm always ready for my next challenge! 👾
+Im an autodidact, fast learner with a passionate builder mind - innovative builder at heart.  
+Always thinking outside the “box” with great problem solving skills. always up for a new project or challange :)
 
 ### 📫 How to reach me:
 
 [![Website](https://img.shields.io/badge/Website-nirkopler.com-FFFAF0)](https://www.nirkopler.com)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-Nir%20Kopler-blue)](https://www.linkedin.com/in/nir-kopler/)
 [![Gmail](https://img.shields.io/badge/Gmail-nirkopler%40gmail.com-red)](mailto:nirkopler@gmail.com)
-
-![nirkoplerStack](https://github.com/nirkopler/nirkopler/blob/main/nirkoplerStack.png)
 
 <!---
 nirkopler/nirkopler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
